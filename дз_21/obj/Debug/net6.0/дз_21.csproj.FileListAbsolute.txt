@@ -1,0 +1,15 @@
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 3 Массивы и функции\дз_21\bin\Debug\net6.0\дз_21.exe
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 3 Массивы и функции\дз_21\bin\Debug\net6.0\дз_21.deps.json
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 3 Массивы и функции\дз_21\bin\Debug\net6.0\дз_21.runtimeconfig.json
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 3 Массивы и функции\дз_21\bin\Debug\net6.0\дз_21.dll
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 3 Массивы и функции\дз_21\bin\Debug\net6.0\дз_21.pdb
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 3 Массивы и функции\дз_21\obj\Debug\net6.0\дз_21.csproj.AssemblyReference.cache
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 3 Массивы и функции\дз_21\obj\Debug\net6.0\дз_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 3 Массивы и функции\дз_21\obj\Debug\net6.0\дз_21.AssemblyInfoInputs.cache
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 3 Массивы и функции\дз_21\obj\Debug\net6.0\дз_21.AssemblyInfo.cs
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 3 Массивы и функции\дз_21\obj\Debug\net6.0\дз_21.csproj.CoreCompileInputs.cache
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 3 Массивы и функции\дз_21\obj\Debug\net6.0\дз_21.dll
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 3 Массивы и функции\дз_21\obj\Debug\net6.0\refint\дз_21.dll
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 3 Массивы и функции\дз_21\obj\Debug\net6.0\дз_21.pdb
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 3 Массивы и функции\дз_21\obj\Debug\net6.0\дз_21.genruntimeconfig.cache
+C:\Users\RUSLAN\Desktop\ДЗ\Урок 3 Массивы и функции\дз_21\obj\Debug\net6.0\ref\дз_21.dll
